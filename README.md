@@ -44,3 +44,5 @@ Integration of real world data sources to enhance the analysis.
 
 # Deployment Link
 https://linearregressionadvertisement-sale-chatgpt-generated-dataset-g.streamlit.app/
+
+![Screenshot 2024-05-14 142818](https://github.com/Prajwal-More/LINEAR_REGRESSION_ADVERTISEMENT-_SALE-ChatGPT-generated-Dataset/assets/161192386/8f860f67-a38f-4891-9297-2e11b427ea02)
