@@ -1,10 +1,9 @@
-## LINEAR_REGRESSION_ADVERTISEMENT-_SALE-ChatGPT-generated-Dataset
+# LINEAR_REGRESSION_ADVERTISEMENT-_SALE-ChatGPT-generated-Dataset
 
-# Overview
+## Overview
+This project demonstrates the use of linear regression to analyze and predict sales based on advertising investments. The dataset includes information on investments made through different advertisement channels (TV, Radio, Newspaper) and the corresponding sales generated through each channel and the combinations of channels. Note should be made that the data is trained using chatgpt generated dataset therefore to increase the accuracy of the models it is suggested to use real world dataset.
 
-# Description
-
-# Understanding the Dataset
+## Understanding the Dataset
 The session provides a brief understanding of the columns in the dataset:
 - TV: Investment made in advertisement through TV (INR)
 - Radio: Investment made in advertisement through Radio (INR)
@@ -16,33 +15,35 @@ The session provides a brief understanding of the columns in the dataset:
 - Sale (TV and Radio): Sale generated from advertisement through TV and Radio
 - Sale (Newspaper and Radio): Sale generated from advertisement through Radio and Newspaper
 
-# About Files in Repository
+## About Files in Repository
 - advertising_data.csv: CHatGPT generated dataset for analysis
 - app.py: Deployment file
 - Linear_Regression.ipynb: Python code for training models
 - Linear_Regression_News.pickle, Linear_Regression_Radio.pickle, Linear_Regression_TV.pickle, Multi_Linear_Regression_Radio_Newspaper.pickle, Multi_Linear_Regression_TV_Newspaper.pickle, Multi_Linear_Regression_TV_Radio.pickle: Trained models
 
-# Dependencies
+## Dependencies
 To run the analysis code, the following Python libraries are required:
 streamlit
 numpy
 pandas
 scikit-learn
 
-# Usage
+## Usage
 To use the analysis code for your own dataset, follow these steps:
 Prepare your dataset in CSV format, following the same structure as the provided dataset.
 Replace the path to the dataset in the analysis code with the path to your dataset.
 Modify the slicer range as per your dataset
 
-# Contact Information
+## Contact Information
 For any questions or feedback regarding this analysis, feel free to contact Prajwal More at moreprajwal22@gmail.com.
 
-# Future Work
+## Future Work
 Potential future directions for this analysis include:
 Integration of real world data sources to enhance the analysis.
 
-# Deployment Link
+## Deployment Link
 https://linearregressionadvertisement-sale-chatgpt-generated-dataset-g.streamlit.app/
+
+## Visvual Representation of the deployment
 
 ![Screenshot 2024-05-14 142818](https://github.com/Prajwal-More/LINEAR_REGRESSION_ADVERTISEMENT-_SALE-ChatGPT-generated-Dataset/assets/161192386/8f860f67-a38f-4891-9297-2e11b427ea02)
